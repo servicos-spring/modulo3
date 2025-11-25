@@ -1,4 +1,4 @@
-name: Fretec Deploy
+name: Deploy to Docker
 
 on:
   push:
